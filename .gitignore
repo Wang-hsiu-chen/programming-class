@@ -1,0 +1,17 @@
+.vscode
+
+# files and folders about compile
+*.exe
+*.cbp
+*.depend
+*.layout
+*.o
+/bin
+/obj
+
+# files other than code
+*.pdf
+*.docx
+*.jpg
+/handout&note
+/工作站
